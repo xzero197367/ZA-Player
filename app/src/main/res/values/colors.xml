@@ -13,4 +13,14 @@
     <color name="cool_green">#64DD17</color>
     <color name="cool_pink">#F50057</color>
     <color name="yellow">#FFD600</color>
+
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="lightBlue">#1976D2</color>
+    <color name="lightIndgo">#7B1FA2</color>
+    <color name="gray">#455A64</color>
+    <color name="gray500">#9E9E9E</color>
+    <color name="gray300">#E0E0E0</color>
 </resources>

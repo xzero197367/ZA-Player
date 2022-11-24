@@ -55,7 +55,7 @@ class MainActivity : AppCompatActivity() {
 
         // get theme
         val editor = getSharedPreferences("Themes", MODE_PRIVATE)
-        themeIndex = editor.getInt("themeIndex", 0)
+        themeIndex = editor.getInt("themeIndex", 1)
 
         setTheme(themeList[themeIndex])
 

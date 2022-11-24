@@ -27,7 +27,7 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
-<!--    for menu-->
+    <!--    for menu-->
     <string name="audio_track">Audio Track</string>
     <string name="subtitles">Subtitles</string>
     <string name="booster">Booster</string>
@@ -36,7 +36,7 @@
     <string name="pip_mode">PIP Mode</string>
     <string name="search">Search</string>
 
-<!--    for video more features-->
+    <!--    for video more features-->
     <string name="rename">Rename</string>
     <string name="delete">Delete</string>
     <string name="info">Info</string>

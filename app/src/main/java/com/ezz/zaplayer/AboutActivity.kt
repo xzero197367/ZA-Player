@@ -13,7 +13,7 @@ class AboutActivity : AppCompatActivity() {
 
         supportActionBar?.title = getString(R.string.about)
 
-        binding.aboutText.text = "Developed By: Ezz Abdelmoez \nEmail: ezzabdelmoez@gmail.com"
+        binding.aboutText.text = "Developed By: Ezz Abdelmoez \nEmail: ezzabdelmoez@gmail.com \nPhone: +201014080630"
 
     }
 }
